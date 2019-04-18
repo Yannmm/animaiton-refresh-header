@@ -5,6 +5,8 @@
 概述
 
 - 基于 MJRefresh 实现一个动画 header
+- 具体实现详见`STRefreshAnimationHeader`
+- 图中例子位于 example03
 
 
 todo 
